@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://boamulher.site.vercel.app/sitemap.xml

@@ -1,0 +1,27 @@
+# Academia BoaMulher Porto Fictício�
+
+> Academia de musculação 100% feminina no Centro de Porto Fictício�, Estado Fictício, Brasil. Slogan: "Seu maior projeto é você".
+
+## Informações essenciais
+
+- **Endereço:** Rua das Flores Fictícias, 000 — Centro, Porto Fictício� MS (CEP 00000-000)
+- **Coordenadas:** -12.3456, -130.7890
+- **WhatsApp:** (00) 90000-0002 — https://wa.me/5500090000002
+- **Instagram:** https://www.instagram.com/academiaboamulher.site
+- **Horários:** Segunda a sexta, manhã à noite; sábado de manhã (confirmar grade pelo WhatsApp)
+
+## Serviço
+
+Musculação para mulheres com foco em pernas e glúteos, protocolo individual por nível e correção/acompanhamento em todos os treinos. Ambiente exclusivamente feminino. Aula experimental gratuita, sem compromisso.
+
+## Planos
+
+- Mensal: R$150/mês
+- Trimestral: R$140/mês (R$420 no trimestre)
+- Semestral: R$130/mês (R$780 no semestre) — mais escolhido
+- Garantia de 7 dias. Congelamento de 15 dias no plano semestral.
+
+## Links
+
+- Site: https://boamulher.site.vercel.app/
+- Rota: https://www.google.com/maps/search/?api=1&query=Academia+Boa+Forma+Porto Fictício+Rua+Mathias+de+Albuquerque+28+Centro
