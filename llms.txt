@@ -23,5 +23,5 @@ Musculação para mulheres com foco em pernas e glúteos, protocolo individual p
 
 ## Links
 
-- Site: https://forma.vercel.app/
+- Site: https://forma-pxzys-projects.vercel.app/
 - Rota: https://www.google.com/maps/search/?api=1&query=Academia+Forma+Exemplo+Ficticia
