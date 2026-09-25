@@ -1,4 +1,4 @@
-# Academia Forma Exemplo Porto Fictício
+# Academia Forma Porto Fictício
 
 > Academia de musculação 100% feminina no Centro de Porto Fictício, Estado Fictício, Brasil. Slogan: "Seu maior projeto é você".
 
@@ -7,7 +7,7 @@
 - **Endereço:** Rua das Flores Fictícias, 000 — Centro, Porto Fictício EX (CEP 00000-000)
 - **Coordenadas:** -12.3456, -130.7890
 - **WhatsApp:** (00) 90000-0002 — https://wa.me/5500090000002
-- **Instagram:** https://www.instagram.com/academia.exemplo.ficticia
+- **Instagram:** https://www.instagram.com/forma.site
 - **Horários:** Segunda a sexta, manhã à noite; sábado de manhã (confirmar grade pelo WhatsApp)
 
 ## Serviço
@@ -23,5 +23,5 @@ Musculação para mulheres com foco em pernas e glúteos, protocolo individual p
 
 ## Links
 
-- Site: https://forma-exemplo-ficticia-pxzys-projects.vercel.app/
+- Site: https://forma.vercel.app/
 - Rota: https://www.google.com/maps/search/?api=1&query=Academia+Forma+Exemplo+Ficticia
