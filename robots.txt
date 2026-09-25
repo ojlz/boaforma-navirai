@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://forma-exemplo-ficticia.vercel.app/sitemap.xml
+Sitemap: https://forma-exemplo-ficticia-pxzys-projects.vercel.app/sitemap.xml
