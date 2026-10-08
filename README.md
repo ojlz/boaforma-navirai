@@ -1,11 +1,11 @@
-# Forma — Academia Feminina (projeto fictício)
+# BoaMulher — Academia Feminina (projeto fictício)
 
 > **Aviso:** site 100% fictício criado para portfólio. Nome, endereço
 > (Rua das Flores Fictícias, 000 — Porto Fictício/EX), telefone
 > `(00) 90000-0002`, WhatsApp, preços e mapas são inventados.
 > Nenhum dado é real e não representa nenhuma empresa.
 
-🌐 **Demo no ar:** https://forma-ex.vercel.app
+🌐 **Demo no ar:** https://boamulher.vercel.app
 
 Landing page de uma academia de musculação 100% feminina fictícia: hero,
 protocolos de treino, planos (mensal/trimestral/semestral), FAQ, localização
@@ -33,4 +33,4 @@ npx serve .
 
 ## Deploy
 
-Hospedado na Vercel (projeto `forma-ex`). Push na branch principal = redeploy.
+Hospedado na Vercel. Push na branch principal = redeploy.
